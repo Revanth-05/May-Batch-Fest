@@ -1,0 +1,3 @@
+Name = Kunal Jindal
+Place = Sirsa, Haryana
+Education = B.Tech, NIT Allahabad
