@@ -1,3 +1,5 @@
 Name = Kunal Jindal
 Place = Sirsa, Haryana
 Education = B.Tech, NIT Allahabad
+Dream = Meet Ronaldo and Kohli
+Dream Company = I don't have
