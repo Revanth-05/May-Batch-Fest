@@ -1,0 +1,5 @@
+Name : Rajeev Kumar
+College : Bengal college of engineering & Technology, West Bengal
+Skill : JAVA, Data Structure & Algorithm, SQL, Spring boot, SAP UI5, Fiori
+Experience : 2 Years of experience in IT
+Dream Job : Get job in google
